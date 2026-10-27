@@ -13,7 +13,7 @@ export default function Footer() {
             <div className="flex items-start gap-3">
               <MapPin className="w-4 h-4 mt-1 text-blue-500 shrink-0" />
               <p>
-                Printer Support Services LLC<br />
+                Printer Expert Solutions<br />
                 212 N. 2nd St. STE 100,<br />
                  Richmond, KY 40475
               </p>
@@ -21,15 +21,15 @@ export default function Footer() {
             <div>
               <div className="flex items-center gap-3">
               <Mail className="w-4 h-4 text-blue-500 shrink-0" />
-              <p>info@printersupportservicesllc.com</p>
+              <p>info@printerexpertsolutions.com</p>
             </div>
             <div className="flex items-center gap-3">
               <Mail className="w-4 h-4 text-blue-500 shrink-0" />
-              <p>contact@printersupportservicesllc.com</p>
+              <p>contact@printerexpertsolutions.com</p>
             </div>
             <div className="flex items-center gap-3">
               <Mail className="w-4 h-4 text-blue-500 shrink-0" />
-              <p>billing@printersupportservicesllc.com</p>
+              <p>billing@printerexpertsolutions.com</p>
             </div>
             </div>
           </div>
@@ -83,7 +83,7 @@ export default function Footer() {
       </div>
 
       <div className="max-w-7xl mx-auto px-4 border-t border-slate-800 pt-8 text-[11px] text-center uppercase tracking-[0.2em] text-slate-500">
-        &copy; {new Date().getFullYear()} Printer Support Services LLC. Your Local Expert for Sales & Repair.
+        &copy; {new Date().getFullYear()} Printer Expert Solutions. Your Local Expert for Sales & Repair.
       </div>
     </footer>
   );

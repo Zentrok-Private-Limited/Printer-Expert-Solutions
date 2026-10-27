@@ -79,7 +79,7 @@ export default function BrandsPage() {
           </h1>
           <p className="text-xl text-slate-600 max-w-3xl mx-auto leading-relaxed">
             Don't just buy a printer from a box store. Get a hardware solution
-            backed by Printer Support Services LLC's expert setup, maintenance, and
+            backed by Printer Expert Solutions's expert setup, maintenance, and
             lifetime support.
           </p>
         </div>
@@ -147,7 +147,7 @@ export default function BrandsPage() {
         <div className="max-w-7xl mx-auto px-6 relative z-10">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-4">
-              The Printer Support Services LLC Advantage
+              The Printer Expert Solutions Advantage
             </h2>
             <p className="text-slate-400">
               Buying hardware is just the beginning of our partnership.

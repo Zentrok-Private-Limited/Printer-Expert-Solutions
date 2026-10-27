@@ -28,7 +28,7 @@ const TermsOfUse: React.FC = () => {
           </h1>
 
           <p className="mx-auto max-w-2xl text-lg text-slate-400">
-            These terms govern your access to printersupportservicesllc.com By using our
+            These terms govern your access to printerexpertsolutions.com By using our
             platform, you agree to the rules outlined below.
           </p>
         </div>
@@ -47,7 +47,7 @@ const TermsOfUse: React.FC = () => {
               </h3>
 
               <p className="text-sm leading-relaxed text-blue-800/80">
-                By accessing printersupportservicesllc.com, you agree to be bound by
+                By accessing printerexpertsolutions.com, you agree to be bound by
                 these Terms. If you do not agree, please discontinue use
                 immediately. These terms apply to all visitors, vendors, and
                 customers.
@@ -277,7 +277,7 @@ const TermsOfUse: React.FC = () => {
 
                 <p className="leading-relaxed text-slate-600">
                   All content, including logos, text, and software, is the
-                  property of <strong>printersupportservicesllc.com</strong>.
+                  property of <strong>printerexpertsolutions.com</strong>.
                   Unauthorized reproduction or distribution is strictly
                   prohibited.
                 </p>
@@ -298,7 +298,7 @@ const TermsOfUse: React.FC = () => {
                   arising from site use.
                   <br />
                   <br />
-                  You agree to indemnify printersupportservicesllc.com against claims
+                  You agree to indemnify printerexpertsolutions.com against claims
                   arising from your violation of these terms.
                 </p>
               </section>
@@ -411,7 +411,7 @@ const TermsOfUse: React.FC = () => {
                       </p>
 
                       <p className="text-slate-700">
-                        info@printersupportservicesllc.com
+                        info@printerexpertsolutions.com
                       </p>
                     </div>
                   </div>
@@ -424,7 +424,7 @@ const TermsOfUse: React.FC = () => {
                       </p>
 
                       <p className="text-slate-700">
-                        contact@printersupportservicesllc.com
+                        contact@printerexpertsolutions.com
                       </p>
                     </div>
                   </div>
@@ -437,7 +437,7 @@ const TermsOfUse: React.FC = () => {
                       </p>
 
                       <p className="text-slate-700">
-                        billing@printersupportservicesllc.com
+                        billing@printerexpertsolutions.com
                       </p>
                     </div>
                   </div>

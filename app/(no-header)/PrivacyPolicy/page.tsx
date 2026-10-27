@@ -111,11 +111,11 @@ const PrivacyPolicy: React.FC = () => {
                 </div>
 
                 <p className="leading-relaxed text-slate-600">
-                  At printersupportservicesllc.com (“we”, “our”, “us”), we value
+                  At printerexpertsolutions.com (“we”, “our”, “us”), we value
                   your privacy and are committed to protecting your personal
                   data. This Privacy Policy outlines how we collect, use, store,
                   and share your information when you visit our website
-                  printersupportservicesllc.com (“Website”) or purchase products
+                  printerexpertsolutions.com (“Website”) or purchase products
                   from us.
                   <br />
                   <br />
@@ -325,11 +325,11 @@ const PrivacyPolicy: React.FC = () => {
                   To exercise these rights, contact us at :
                   <br />
                   <br />
-                  info@printersupportservicesllc.com
+                  info@printerexpertsolutions.com
                   <br />
-                  contact@printersupportservicesllc.com
+                  contact@printerexpertsolutions.com
                   <br />
-                  billing@printersupportservicesllc.com
+                  billing@printerexpertsolutions.com
                 </p>
               </section>
 

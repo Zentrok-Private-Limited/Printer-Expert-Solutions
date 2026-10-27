@@ -17,7 +17,7 @@ export default function AboutPage() {
               without Interruption.
             </h1>
             <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-              At Printer Support Services LLC, we understand that a broken printer isn't
+              At Printer Expert Solutions, we understand that a broken printer isn't
               just a technical glitch—it's a halted workflow. We've spent over a
               decade perfecting the art of rapid repair and strategic sales.
             </p>

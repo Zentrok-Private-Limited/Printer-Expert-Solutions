@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Printer Support Services LLC",
+  title: "Printer Expert Solutions",
   description: "Printer Services",
 };
 

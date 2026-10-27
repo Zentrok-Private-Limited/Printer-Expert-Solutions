@@ -132,7 +132,7 @@ export default function IssuesAndContact() {
                 href="/ContactUs"
                 className="inline-flex items-center justify-center px-6 py-4 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-sm transition-all shadow-lg shadow-blue-900/20 active:scale-98 group/btn text-center"
               >
-                Contact Printer Support Services LLC
+                Contact Printer Expert Solutions
                 <ArrowRight className="ml-2 w-4 h-4 transform group-hover/btn:translate-x-1 transition-transform" />
               </Link>
               <button 

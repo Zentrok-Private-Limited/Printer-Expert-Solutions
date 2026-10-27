@@ -36,9 +36,9 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-slate-400 uppercase tracking-widest font-semibold">Email Us</p>
-                  <p className="text-xl font-medium">info@printersupportservicesllc.com</p>
-                  <p className="text-xl font-medium">contact@printersupportservicesllc.com</p>
-                  <p className="text-xl font-medium">billing@printersupportservicesllc.com</p>
+                  <p className="text-xl font-medium">info@printerexpertsolutions.com</p>
+                  <p className="text-xl font-medium">contact@printerexpertsolutions.com</p>
+                  <p className="text-xl font-medium">billing@printerexpertsolutions.com</p>
                 </div>
               </div>
             </div>

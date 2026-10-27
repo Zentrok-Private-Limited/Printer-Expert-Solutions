@@ -58,7 +58,7 @@ export default function WhyChooseUs() {
             The Service Advantage
           </span>
           <h2 className="text-2xl font-bold text-slate-900 mt-2 mb-4 tracking-tight md:text-4xl">
-            Why Choose Printer Support Services LLC?
+            Why Choose Printer Expert Solutions?
           </h2>
           <div className="h-1.5 w-16 bg-blue-600 mx-auto rounded-full mb-6"></div>
           <p className="text-lg text-slate-600 leading-relaxed">

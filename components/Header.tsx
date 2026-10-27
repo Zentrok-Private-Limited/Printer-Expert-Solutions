@@ -41,7 +41,7 @@ export default function Header() {
           <div className="flex gap-6">
             <span className="flex items-center gap-2 hover:text-blue-400 cursor-pointer transition-colors">
               <Mail size={14} className="text-blue-500" />
-              billing@printersupportservicesllc.com
+              billing@printerexpertsolutions.com
             </span>
           </div>
           <div className="flex items-center gap-2">
@@ -57,9 +57,9 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex flex-col group">
             <span className="text-xl md:text-2xl font-black text-slate-900 tracking-tighter group-hover:text-blue-600 transition-colors">
-              PRINTER SUPPORT SERVICES{" "}
+              PRINTER EXPERT{" "}
               <span className="text-blue-600 group-hover:text-slate-900">
-                LLC
+                SOLUTIONS
               </span>
             </span>
             <span className="text-[10px] uppercase tracking-normal font-bold text-slate-500">

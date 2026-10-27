@@ -22,11 +22,11 @@ export default function Home() {
         {/* Left Text Column */}
         <div className="space-y-8">
           <h1 className="text-2xl lg:text-4xl font-bold tracking-tight text-slate-900 leading-tight">
-            About Printer Support Services LLC <br />
+            About Printer Expert Solutions <br />
           </h1>
           
           <p className="text-sm lg:text-lg text-gray-500 max-w-md leading-relaxed">
-            Printer Support Services LLC provides expert printer support, troubleshooting, installation, and IP network configuration services for residential customers, home offices, and businesses across the United States. Whether you need help setting up a new printer, resolving connectivity issues, or configuring your network, our technicians are ready to assist.
+            Printer Expert Solutions provides expert printer support, troubleshooting, installation, and IP network configuration services for residential customers, home offices, and businesses across the United States. Whether you need help setting up a new printer, resolving connectivity issues, or configuring your network, our technicians are ready to assist.
           </p>
 
           <Link href="/About" className="px-10 py-3 border-2 border-gray-900 text-white rounded-lg text-lg font-medium bg-gray-900 hover:text-white transition-all duration-300">

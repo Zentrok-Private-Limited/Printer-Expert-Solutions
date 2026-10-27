@@ -50,7 +50,7 @@ const RefundPolicy: React.FC = () => {
               <h3 className="text-lg font-bold text-emerald-900">Overview</h3>
 
               <p className="text-sm leading-relaxed text-emerald-800/80">
-                At printersupportservicesllc.com, customer satisfaction is our top
+                At printerexpertsolutions.com, customer satisfaction is our top
                 priority. This policy outlines the terms for cancellations and
                 returns in compliance with applicable Indian laws.
               </p>
@@ -118,11 +118,11 @@ const RefundPolicy: React.FC = () => {
                         You may cancel your order before it is shipped by
                         contacting our support team at :
                         <br />
-                        info@printersupportservicesllc.com 
+                        info@printerexpertsolutions.com 
                         <br />
-                        contact@printersupportservicesllc.com
+                        contact@printerexpertsolutions.com
                         <br />
-                        billing@printersupportservicesllc.com or via live chat support.
+                        billing@printerexpertsolutions.com or via live chat support.
                       </li>
 
                       <li>
@@ -255,7 +255,7 @@ const RefundPolicy: React.FC = () => {
                 </p>
 
                 <p className=" text-slate-500">
-                  If you believe there has been an error with your payment, please contact Printer Support Services LLC before initiating a dispute or chargeback. We will make every reasonable effort to resolve billing concerns promptly. Chargebacks filed for services that have already been provided may be contested with supporting service records and documentation.
+                  If you believe there has been an error with your payment, please contact Printer Expert Solutions before initiating a dispute or chargeback. We will make every reasonable effort to resolve billing concerns promptly. Chargebacks filed for services that have already been provided may be contested with supporting service records and documentation.
                 </p>
 
                 <p className="mt-4 mb-1 block text-lg font-bold text-slate-700">
@@ -375,17 +375,17 @@ const RefundPolicy: React.FC = () => {
                   <div className="space-y-4">
                     <div className="flex items-center gap-3 text-slate-600">
                       <Mail size={18} className="text-emerald-500" />
-                      <span>info@printersupportservicesllc.com</span>
+                      <span>info@printerexpertsolutions.com</span>
                     </div>
 
                     <div className="flex items-center gap-3 text-slate-600">
                       <Mail size={18} className="text-emerald-500" />
-                      <span>contact@printersupportservicesllc.com</span>
+                      <span>contact@printerexpertsolutions.com</span>
                     </div>
 
                     <div className="flex items-center gap-3 text-slate-600">
                       <Mail size={18} className="text-emerald-500" />
-                      <span>billing@printersupportservicesllc.com</span>
+                      <span>billing@printerexpertsolutions.com</span>
                     </div>
                   </div>
                 </div>
